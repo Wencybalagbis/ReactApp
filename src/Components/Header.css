@@ -1,0 +1,49 @@
+.header {
+    overflow: hidden;
+    background-color: #FFFFFF;
+}
+
+.header p {
+    float: left;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 15px;
+    border-radius: 4px;
+    font-size: 20px;
+    font-family: "Times New Roman", Georgia, Serif;
+    font-weight: normal;
+    letter-spacing: 3px;
+}
+
+.bago {
+    font-size: 40px !important;
+    font-family: "Times New Roman", Georgia, Serif;
+    font-weight: normal !important;
+    color:rgb(0, 0, 0) !important;}
+
+.bigg {
+    font-size: 30px !important;
+    font-family: "Times New Roman", Georgia, Serif;
+    font-weight: bold !important;
+    color:rgb(0, 0, 0) !important;}
+
+.header p.logo {
+    font-size: 25px;
+    font-weight: bold;
+    color: #4284f5;
+}
+
+.header-right{
+    float: right;
+}
+
+@media screen and (max-width: 500px) {
+    .header p {
+        float: none;
+        display: black;
+        text-align: left;
+    }
+    
+}

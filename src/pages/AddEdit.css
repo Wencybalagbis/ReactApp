@@ -1,0 +1,167 @@
+.zzz {
+    font-size: 40px !important;
+    font-family:"Times New Roman", Georgia, Serif;
+    font-weight: normal;
+    color:rgb(233, 241, 243)}
+form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+input[type="text"],
+input[type="email"],
+input[type="number"],
+select {
+    width: 150%;
+    display: inline-block;
+    border: 1px solid #000000;
+    border-radius: 20px;
+    box-sizing: border-box;
+}
+
+input[type="submit"] {
+    width: 30px;
+    background-color: #000000;
+    color: white;
+    margin: 25px 0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #000000;
+}
+
+.seyb {
+    font-size: 30px !important;
+    width: 200px !important;
+}s
+
+.btn {
+    border: none;
+    color: white;
+    padding: 5px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.btn-edit {
+    background-color: #008cba;
+}
+
+.btn-delete {
+    background-color: #f44336;
+}
+
+.btn-view {
+    background-color: #e7e7e7;
+    color: black;
+}
+
+.body {
+    background-color:rgb(28, 28, 31) !important;
+    padding: 50px;
+}
+
+.para{
+    text-align: justify;
+    text-indent: 50px;
+}
+
+.imej {width: 100% !important;}
+
+.logo {
+    width: 200px;
+}
+
+.nav-item {
+    font-family:"Times New Roman", Georgia, Serif;
+    font-size: 20px;
+    font-weight: normal !important;
+    color: rgb(0, 0, 0) !important;
+}
+
+.navbar-nav>.active{
+    font-weight: bolder !important;
+}
+
+.bigg {
+    font-size: 600px !important;
+    font-family:"Times New Roman", Georgia, Serif;
+    font-weight: bold;
+    color:rgb(109, 233, 255) !important}
+
+    .biggg {
+        font-size: 50px;
+        font-family:"Times New Roman", Georgia, Serif;
+        font-weight: bold;
+        color:rgb(216, 233, 236) !important}
+
+.normi {
+    font-size: 40px !important;
+    font-family:"Times New Roman", Georgia, Serif;
+    font-weight: normal;
+    color:rgb(233, 241, 243)}
+
+.smol {
+    font-size: 25px;
+    font-family:"Times New Roman", Georgia, Serif;
+    font-weight: normal;
+    color: white;}
+
+.lenk {
+    font-size: 25px;
+    font-family:"Times New Roman", Georgia, Serif;
+    font-weight: normal;
+    color: rgb(233, 241, 243) !important;
+    transition: all .7s}
+
+.twech{
+    font-size: 25px;
+    font-family:"Times New Roman", Georgia, Serif;
+    font-weight: normal;
+    color: rgb(233, 241, 243) !important;
+    transition: all .7s
+}
+
+.twech:hover{
+    color: rgb(100, 65, 165) !important;
+}
+
+.lenk:hover{
+    color: rgb(23, 169, 206) !important;
+}
+
+.boton{
+    font-size: 20px;
+    font-family:"Times New Roman", Georgia, Serif;
+    font-weight: normal;
+    color: black;
+    background-color: rgb(0, 0, 0);
+    border-color: rgb(233, 241, 243);
+    transition: all .7s;
+    border-radius: 30px;}
+
+.btn:hover{
+color: white;
+background-color: rgb(28, 28, 31);
+border-color: white;}
+
+.smoler {
+    font-size: 40px !important;
+    font-family:"Times New Roman", Georgia, Serif;
+    font-weight: normal;
+    color: rgb(0, 0, 0) !important;}
+
+.card { background-color: rgba(255, 255, 255, 0.05);
+        border-radius: 15px;}
+.card:hover {box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);}
+.card-header, .card-footer { opacity: 1}
+        
